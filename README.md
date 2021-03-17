@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Peter Okoth
+- 👀 I’m interested in Blockchain and Machine Learning
